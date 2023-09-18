@@ -1,6 +1,6 @@
 # Law notes
 
-> created by Vincent Ren
+> created by ...
 
 ## Contents
 
