@@ -7,6 +7,9 @@
  -> length of term, reappointment decision
 * remuneration: Minister or remuneration tribunals
 
+> independant to who, and independant to what?
+> should tribunal be accountable to courts?
+
 ### Procedure
 * the minimum of formility but still need procedural fairness and logically probative material (flexibility)
 * inquisitorial rather than adversarial, tribunal may suggest how to fill the gap
@@ -14,16 +17,32 @@
    different measures 
 * ADR
 
+> s 25 jurisdiction of AAT ACT, scope of the tribunal
+
+
 ### Transparency
 * commonly regulate public proceeding
-* reasons for decision
-
-  > s 28 AAT Act
+* reasons for decision 
+ * reason from origin decision maker (S 28)
+ * reason from tribunal (s 43)
+ 
 * subject to parliament
 
+### Standing and parties
+
+* Re Rudd (airport)
+* affected party
+* organisation who is substantially affected by the decision
+ 
+
 ### Policy consideration
+
+> consistancy is important
+
 * ***Re Drake***: US citizen, possessing prohibited drug, deportation, whether to apply policy? --yes
 * ***Drake(No2)***: not making policy but commenting policy
+
+
 
 
 ### Drake [no2]
