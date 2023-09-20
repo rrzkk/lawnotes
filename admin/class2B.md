@@ -45,8 +45,13 @@
 
 * common good vs individual right, efficency vs justice
 * two definitions of adminitrative justice: include policy consideration/not include policy consideration
+* two different views of who should manage adminitrative justice: sole executive branch vs all segment of admin law community
+* should administrative injustice only refer to judicial review? media review? mereit review?
+* ***Quinn***: boundary of judicial review, adminitrative justice is not confined by judiacial review? maybe not
 
+***Boundary of adminitrative justice is very blurred, who should manage the adminitrative justice is undecided, However, the trend move to cover wider and wider areas to its scpoe, and include more institutes to manage it***
 
+* indicators and objectives of adminitrative review are important
 
 ## Abboud
 
