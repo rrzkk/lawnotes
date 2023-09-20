@@ -37,10 +37,14 @@
 
 ### documentary evidence
 
-* 
+* should be careful
+* bogus document may not mean untrue
+* protection visa must be rejected when bogus document is provided without reasonable explanation
 
 ## Creyke
 
+* common good vs individual right, efficency vs justice
+* two definitions of adminitrative justice: include policy consideration/not include policy consideration
 
 
 

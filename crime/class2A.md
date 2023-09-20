@@ -47,7 +47,7 @@ Corroboration
 * 2007: defination of consent
 	* positive consent
 	* expanded automatic negations
-	* mens rea requriement: knowledge, even no reasonable ground 
+	* mens rea requriement: knowledge, no reasonable ground 
 
 Homosexual offense repeal(1984)
 
