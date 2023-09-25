@@ -1,8 +1,11 @@
-## Access to justice and context to change
+## Access to justice( or access to legal process ?) and context to change
 
 ### P Baron and L Corbin, Ethics and Legal Professionalism in Australia  (OUP, 2nd ed, 2017) chp 9
 --
+
 * only clients' interest <--> all about public good
+
+
 * **Rhodes' framework**: 
  * improvement/maintainance legal framework
  * quality of justice

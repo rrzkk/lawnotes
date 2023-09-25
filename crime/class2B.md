@@ -44,4 +44,4 @@ Trial 2 - not guity
 * physical injury has no connection with consent
 * if people not crying, does not mean she is lying. If she is crying, does not mean she is emotional
 
-
+s 292C

@@ -53,5 +53,11 @@
 
 * indicators and objectives of adminitrative review are important
 
+	*	access to justice;	*	expedition and timeliness;	*	equality, fairness and integrity;	*	independence and accountability; and	*	public trust and confidence.
+
+
 ## Abboud
 
+* **Court**: federal court
+* **Fact**: applicants apply for parterner visa, the parterner got his visa based on homosexuality, s 65 Migration act, applicants failed to apply within 28 days, appeal to AAT, AAT rejected the appeal based on s 5 Migration Act, claimed the marriage not genuine, relate to 'gay rights movement' and parterner's choice of htersexual/homosexual
+* **Result**: allow the appeal, jurisdictional error, 'gay right movement irrelevant'
