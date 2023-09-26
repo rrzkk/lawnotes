@@ -37,4 +37,19 @@ Bell and bela framework:
  * **independence** r 17 **Double Agent**
 
 * **duty to educate clients**
- * 
+ * means to address conflict between duty to the client and duty to the law
+ 
+* *Rondel v Worsley* 
+* **Conflict**: prefer responsible lawyer model currently
+
+
+
+
+## Class 5
+
+* What is Court? LPUASCR: court, tribunal, ADR
+* independants 4, 12, 17
+* s 7 clear timely advice, advice the client
+   
+   duty to warm
+* 
