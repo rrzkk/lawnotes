@@ -27,15 +27,16 @@
 		* s5(1) *bond*, final/operative -> substansive
 	* **Conduct**  
 		* s 6(1) *Miller*, proper connection between the conduct and the further decision which must subject to s 5(1)
-	* adminitrative nature and under an enactment (oppose to legislative and judical nature), * adminitrative nature ***Roche***
+	* adminitrative nature and under an enactment (oppose to legislative and judical nature) 
+	* adminitrative nature ***Roche***
 	* decision made under enactment: ***Griffth University v Tang***: where is the capacity to affect legal rights/obligations derived from?
 
 > overlap of jurisdiction between JDAR and JR 
 
 ### Jurisdictional error
 
-#### positive act
+#### Positive act
 
-#### failure to act
-	
-	
+
+#### Failure to act
+
