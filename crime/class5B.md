@@ -9,11 +9,13 @@
 #### Potts
 * BoP
 * By jury not expert
+* Inconsistancy between self-defence and substantial impairment
 
 > intoxication to be disregarded (s 23A3)
 > 
 > Even if question has not been raised, jury should still consider this defence ***Cheatham***
 > 
+> **TEST**: mental healt/cognitive impairments -->  so substantial
 
 
 ## Intoxication

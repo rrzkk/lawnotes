@@ -126,7 +126,7 @@
 	* implulse to do it
 	* unintentional/unforseen
 * insanity means he/she would be let at large to do it again
-* burden of proof on **procesution**: need to prove a voluntary act
+* burden of proof on procesution: need to prove a voluntary act
 * **presumption**: every man has sufficient mental capacity to be responsible, defendant need to give evidence to displace the presumption
 * Jury will have the final decision 
 
@@ -145,3 +145,9 @@
 * **Toohey** held that **external test** is artificial
 	* insanity and automatism are seperate, and should be tested seperately
 	* no conviction, apeal dismiss
+
+> distinguish between same and non-sane:
+> 
+> - recurrence test
+> - external test
+> - unsound/sound mind test
