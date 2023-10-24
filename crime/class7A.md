@@ -10,7 +10,7 @@
 ## Recent History Common Law
 * ***Howe***: partial defence is excessive self-defence
 * ***Palmer***: proportionality of response, no halfway defence if excessive
-* ***Viro***:  6-step subjectively reasonably believe-> objectively proportion?(aquit or not) -> subjectively proportion (partial defence or not)
+* ***Viro***:  6-step subjectively reasonably believe-> objectively proportion?(acquit or not) -> subjectively proportion (partial defence or not)
 * ***Zecevic v DPP***: no subjective proportion test, all about objective test
 
 ## Statutory Definition
@@ -29,7 +29,7 @@
 
 ## Excessive self-defence
 
-***Ryan and Coulter***: Mother-daughter contract killing, it is one to say something as an explanation for conduct, it is another thing to say necessity
+***Ryan and Coulter***: Mother-daughter contract killing, it is one to say something as an explanation for the conduct, it is another thing to say necessity
 
 ## Battered woman
 
